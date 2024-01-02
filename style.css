@@ -89,7 +89,7 @@ body{
     text-align: center;
 }.Div11:hover{
     box-shadow: 0px 0px 20px 0px rgb(0, 110, 255);
-    background: #23A6D5;
+    background: rgba(34, 117, 224, 0.5);
 }
 .div111{
     font-size: 3vw;
@@ -124,7 +124,7 @@ body{
     text-align: center;
 }.Div12:hover{
     box-shadow: 0px 0px 20px 0px rgb(0, 110, 255);
-    background: #23A6D5;
+    background: rgba(34, 117, 224, 0.5);
 
 }
 .Div13{
@@ -135,7 +135,7 @@ body{
     font-size: 2vw;
 }.Div13:hover{
     box-shadow: 0px 0px 20px 0px rgb(0, 110, 255);
-    background: #23A6D5;
+    background: rgba(34, 117, 224, 0.5);    
 
 }
 
@@ -204,7 +204,7 @@ body{
 
 }.cont:hover{
     box-shadow: 0px 0px 20px 0px rgb(0, 110, 255);
-    background: #23A6D5;
+    background: rgba(34, 117, 224, 0.5);
 
 }
 
