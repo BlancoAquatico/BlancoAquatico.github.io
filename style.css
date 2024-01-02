@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Neonderthaw&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -23,10 +24,10 @@ a{
         text-decoration: none;
         display: inline-block;
         font-size: 2vw;
-        font-family: serif;
+        font-family: 'Bebas Neue', sans-serif;
         color: transparent;
         text-align: center;
-        animation: PENIS 15s linear infinite;
+        animation: Eff 15s linear infinite;
 }
     }
     
@@ -43,7 +44,7 @@ a{
         text-decoration: none;
         display: inline-block;
         font-size: 2vw;
-        font-family: serif;
+        font-family: 'Bebas Neue', sans-serif;
         color: transparent;
         text-align: center;
         animation: effect1 15s linear infinite;
@@ -63,7 +64,7 @@ body{
         text-decoration: none;
         display: inline-block;
         font-size: 2vw;
-        font-family: serif;
+        font-family: 'Bebas Neue', sans-serif;
         color: transparent;
         text-align: center;
         animation: effect 15s linear infinite;
@@ -148,7 +149,7 @@ body{
     animation: effect 15s linear infinite
 }
 
-@keyframes PENIS{
+@keyframes Eff{
     0% {
         background: #ffffff ;
         -webkit-background-clip: text;
@@ -260,5 +261,5 @@ body{
     max-height: 50vh;
     background: transparent;
     font-size: 1.5vw;
-    background-color:rgba(62, 89, 165, 0.5);
+    font-family: 'Bebas Neue', sans-serif;
 }
